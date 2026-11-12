@@ -1,0 +1,9 @@
+body { margin: 0; background: #F7F5F1; color: #17191D; font: 17px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 56px 24px 80px; }
+.eyebrow { color: #B5231E; font-size: 13px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; margin: 0 0 8px; }
+h1 { font-size: 40px; line-height: 1.1; margin: 0 0 20px; }
+h2 { font-size: 22px; margin: 36px 0 8px; }
+.card { background: #fff; border: 2px solid #17191D; border-radius: 4px; padding: 22px 26px; margin-top: 24px; }
+a { color: #B5231E; }
+img.icon { width: 72px; height: 72px; image-rendering: pixelated; }
+footer { margin-top: 48px; font-size: 14px; color: #5A606B; }
